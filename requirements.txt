@@ -5,4 +5,5 @@ python-dotenv==1.0.1
 django-axes~=6.1.0
 django-crispy-forms
 crispy-bootstrap5
-
+Pillow
+dj_database_url
