@@ -6,4 +6,5 @@ django-axes~=6.1.0
 django-crispy-forms
 crispy-bootstrap5
 Pillow
+gunicorn
 dj_database_url
