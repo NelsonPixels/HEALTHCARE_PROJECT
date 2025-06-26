@@ -34,7 +34,7 @@ ENCRYPTION_KEY = os.getenv('ENCRYPTION_KEY', 'a_default_encryption_key_for_dev_o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost'] # Add your production domain here later
+ALLOWED_HOSTS = ['*'] # Add your production domain here later
 
 # Security settings - Good choices!
 # SECURE_SSL_REDIRECT = False # Set to True in production after configuring HTTPS
